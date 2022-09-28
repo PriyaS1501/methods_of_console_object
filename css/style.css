@@ -1,0 +1,10 @@
+.marks{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.marks .details{
+    
+    height: 40vh;
+}
